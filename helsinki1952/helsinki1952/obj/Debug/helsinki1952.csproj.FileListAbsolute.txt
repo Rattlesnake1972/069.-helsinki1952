@@ -1,0 +1,24 @@
+C:\Users\DomotorGy\source\repos\helsinki1952\helsinki1952\bin\Debug\helsinki1952.exe.config
+C:\Users\DomotorGy\source\repos\helsinki1952\helsinki1952\bin\Debug\helsinki1952.exe
+C:\Users\DomotorGy\source\repos\helsinki1952\helsinki1952\bin\Debug\helsinki1952.pdb
+C:\Users\DomotorGy\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.AssemblyReference.cache
+C:\Users\DomotorGy\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.CoreCompileInputs.cache
+C:\Users\DomotorGy\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.exe
+C:\Users\DomotorGy\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.pdb
+C:\Users\DomotorGy\source\repos\helsinki1952\helsinki1952\bin\Debug\helsinki.txt
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\069. Helsinki\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.AssemblyReference.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\069. Helsinki\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.CoreCompileInputs.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\069. Helsinki\helsinki1952\helsinki1952\obj\Debug\helsinki1952.exe
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\069. Helsinki\helsinki1952\helsinki1952\obj\Debug\helsinki1952.pdb
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.AssemblyReference.cache
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.exe
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.pdb
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.AssemblyReference.cache
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\helsinki1952\obj\Debug\helsinki1952.exe
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\helsinki1952\obj\Debug\helsinki1952.pdb
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\helsinki1952\bin\Debug\helsinki.txt
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\helsinki1952\bin\Debug\helsinki1952.exe.config
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\helsinki1952\bin\Debug\helsinki1952.exe
+C:\Users\gratt\source\repos\helsinki1952\helsinki1952\helsinki1952\bin\Debug\helsinki1952.pdb
